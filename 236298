@@ -5,7 +5,7 @@ from colorama import Fore as col
 os_1 = input(col.GREEN+"root&@sudo:~# TARGET OS: ")
 shomare = input(col.RED+"root&@sudo:~# ID TARGET: ")
 OS = "SAMSUNG ....."
-shomaree = "+98 905 482 8527"
+shomaree = "+98 000 000 0000"
 if "09" in shomare :
     shomare = int(shomare)
 else :
