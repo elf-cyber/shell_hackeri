@@ -1,0 +1,179 @@
+import os
+import time
+from colorama import Fore as col
+
+os_1 = input(col.GREEN+"root&@sudo:~# TARGET OS: ")
+shomare = input(col.RED+"root&@sudo:~# ID TARGET: ")
+OS = "SAMSUNG ....."
+shomaree = "+98 905 482 8527"
+if "09" in shomare :
+    shomare = int(shomare)
+else :
+    shomare = "UNKnowN"
+result = "root&@sudo:~#  "
+for y in "LODING...!":
+    result +=y
+    print(col.RED,result,end='\r') 
+    time.sleep(0.3)
+   
+time.sleep(1)
+for i in range (1,100):
+ print("+------------------------------------------+")
+ print(f"{col.WHITE}root&@sudo:~# {col.RED}UPLOAD SHELL CODE..!!{col.LIGHTYELLOW_EX} PLEASE WAIT",i,"%") 
+ time.sleep(0.05)
+ print('[====>            ]%25')
+ time.sleep(0.00005)
+ os.system('cls')
+ print("+------------------------------------------+")
+ print(f"{col.WHITE}root&@sudo:~# {col.RED}UPLOAD SHELL CODE..!!{col.LIGHTYELLOW_EX} PLEASE WAIT",i,"%") 
+ print('[========>        ]%50')
+ time.sleep(0.00005)
+ os.system('cls')
+ print("+------------------------------------------+")
+ print(f"{col.WHITE}root&@sudo:~# {col.RED}UPLOAD SHELL CODE..!!{col.LIGHTYELLOW_EX} PLEASE WAIT",i,"%") 
+ print('[============>    ]%75')
+ time.sleep(0.00005)
+ os.system('cls')
+ print("+------------------------------------------+")
+ print(f"{col.WHITE}root&@sudo:~# {col.RED}UPLOAD SHELL CODE..!!{col.LIGHTYELLOW_EX} PLEASE WAIT",i,"%") 
+ print('[================>]%100')
+ time.sleep(0.00005)
+ os.system('cls')
+ 
+
+result = f'{col.WHITE}root&@sudo:~# '
+for y in f"{col.RED}NUMBER TARGET...! ==> {col.GREEN}{shomaree}                    ":
+    result +=y
+    print(result,end='\r')
+    time.sleep(0.03)
+
+sult = f'{col.WHITE}root&@sudo:~# '
+iD_1 = '@King_Guinea_Wolf'
+for qe in f"{col.RED}ID RELEGRAM TARGET...! ==> {col.GREEN}{iD_1}                    ":
+    sult +=qe
+    print(sult,end='\r')
+    time.sleep(0.03)
+
+resu = f'{col.WHITE}root&@sudo:~# '
+for t in f"{col.RED}SYSTEM TARGET..! ==> {col.GREEN}{OS}                        ":
+    resu +=t
+    print(resu , end='\r')
+    time.sleep(0.03)
+rest = f'{col.WHITE}root&@sudo:~# '
+for w in f"{col.GREEN}HACKED SECURITY TARGET..!                                    ":
+    rest +=w
+    print(rest,end='\r')
+    time.sleep(0.03)
+resul = f'{col.WHITE}root&@sudo:~# '
+for q in f"{col.GREEN}ENTER THE COMMEND FOR TERMINAL ..!                               ":
+    resul += q
+    print (resul,end='\r')
+    time.sleep(0.03)
+print (f'{col.WHITE}root&&sudo:~# MASIR SHELL_KODE..! {col.RED}/sdcard/android/data')    
+re = input(f'{col.WHITE}root&@sudo:~# ')
+print(col.GREEN+""" SHELL FOR IN FILES
+      
+          user  | file name
+       
+          root  | Telegram
+          root  | WhatsApp
+          root  | Android
+          root  | Video
+          root  | DCIM
+          root  | Pictures
+          root  | Music
+          root  | Downlod
+          root  | documents
+          root  | Shad """)
+rea = input(f'{col.WHITE}root&@sudo:~# ')
+print('''
+|_Telegram
+_________      
+|        |______Telegram Audio
+|        |______Telegram Documents
+|        |      |___________________________HACK_SHODI1.txt
+|        |      |___________________________HACK_SHODI2.txt
+|        |      |___________________________HACK_SHODI3.txt
+|        |      |___________________________HACK_SHODI4.txt
+|        |      |___________________________HACK_SHODI5.txt
+|        |    
+|        |______Telegram Images
+|        |______Telegram Video
+|        |_________HACK_SHODI.txt
+|
+|_WhatsApp
+__________
+|         |
+|         |______Shares
+|         |______trash
+|         |______Backups
+|         |______Databases
+|         |______Media
+|                |__________
+|                         |___________Links
+|                         |___________Statuses
+|                         |___________WallOaoer
+|                         |___________WhatsApp Audio 
+|                         |___________WhatsApp Documents
+|                         |___________WhatsApp Images
+|                         |___________WhatsApp Profile Photos
+|                         |___________WhatsApp Stickers
+|                         |___________WhatsApp Video
+|                         |___________WhatsApp Voice Notes
+|                         |___________HACK_SHOD.txt
+|
+|_Android
+ ___________                
+|          |_______data
+|          |_______media
+|          |_______obb
+|          |_______obj
+|          |_________HACK_SHODI.txt
+|
+|_Video          
+|          
+|_DCIM
+|___________
+|          |________.thumbnalis
+|          |________Camera
+|          |_________HACK_SHODI.txt
+|
+|_Pictures
+|___________
+|           |________.Gallery2
+|           |________BlackWallpapers
+|           |________post
+|           |________Screenshots
+|           |________Telegram
+|           |________HACK_SHODI.txt
+|_Music
+|
+|_Downlod
+|
+|_documents
+|
+|_Shad
+|_________
+          |_________Shad Audio
+          |_________Shad Documents
+          |_________Shad Images
+          |_________Shad Videos
+          |_________HACK_SHODI.txt
+      ''')
+input("root&@sudo:~# ")
+a = f'{col.RESET}root&@sudo:~# '
+for q in f"{col.GREEN}SEND ALL FILIS TO SERVER ==> {col.RED}25.128.87.13:8080":
+    a +=q
+    print(a , end='\r') 
+    time.sleep(0.03)
+time.sleep(2)   
+
+e = f'{col.RESET}root&@sudo:~# '
+for A in f"{col.GREEN}EXIT SUDO AND SHUTDOWN ROOT SYSTEM..!                      ":
+    e +=A
+    print(e , end='\r') 
+    time.sleep(0.03)
+time.sleep(2)
+os.system('cls')    
+input(f'{col.RESET}root&@sudo:~# ')
+print("BYE ELF")        
